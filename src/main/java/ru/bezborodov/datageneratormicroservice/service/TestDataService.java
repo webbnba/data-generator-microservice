@@ -1,4 +1,8 @@
 package ru.bezborodov.datageneratormicroservice.service;
 
-public class TestDataService {
+import ru.bezborodov.datageneratormicroservice.model.test.DataTestOptions;
+
+public interface TestDataService {
+
+    void sendMessages(DataTestOptions testOptions);
 }
