@@ -14,6 +14,9 @@ import ru.bezborodov.datageneratormicroservice.web.dto.DataTestOptionsDto;
 import ru.bezborodov.datageneratormicroservice.web.mapper.DataMapper;
 import ru.bezborodov.datageneratormicroservice.web.mapper.DataTestOptionsMapper;
 
+/**
+ * Controller javadoc
+ */
 @RestController
 @RequestMapping("api/v1/data")
 @RequiredArgsConstructor
