@@ -15,7 +15,7 @@ import ru.bezborodov.datageneratormicroservice.web.mapper.DataMapper;
 import ru.bezborodov.datageneratormicroservice.web.mapper.DataTestOptionsMapper;
 
 /**
- * Controller javadoc
+ * Controller
  */
 @RestController
 @RequestMapping("api/v1/data")
